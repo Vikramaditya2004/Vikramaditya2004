@@ -55,7 +55,7 @@ My current development journey combines:
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=java" width="55" alt="Java">
+<img src="https://skillicons.dev/icons?i=java" width="55" target="_blank" alt="Java">
 <img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript">
 <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML">
 <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS">
