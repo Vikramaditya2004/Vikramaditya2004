@@ -1,14 +1,22 @@
-# 👋 Hey, I'm Vikram Aditya
-
 <div align="center">
 
-### 💻 Software Developer | Web Developer | Salesforce Developer
+# 👋 Hi, I'm Vikram Aditya
 
-**Building • Learning • Exploring • Improving**
+### 💻 Software Developer · Web Developer · Salesforce Developer
 
-[🌐 Portfolio](https://vikramaditya2004.github.io/Portfolio-Mine/) •
-[💼 LinkedIn](https://www.linkedin.com/in/vikram-aditya-1a2509302/) •
-[🐙 GitHub](https://github.com/Vikramaditya2004)
+**Building • Learning • Creating • Improving**
+
+<br>
+
+<a href="https://vikramaditya2004.github.io/Portfolio-Mine/">
+  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-00C2FF?style=for-the-badge&labelColor=111827" alt="Visit Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/vikram-aditya-1a2509302/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&labelColor=111827" alt="LinkedIn">
+</a>
+<a href="https://github.com/Vikramaditya2004">
+  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&labelColor=111827" alt="GitHub">
+</a>
 
 </div>
 
@@ -16,45 +24,69 @@
 
 ## 🚀 About Me
 
+I'm a **Software Developer** interested in building practical, responsive and user-friendly applications.
+
+My current development journey combines:
+
 ```text
-👨‍💻 Software Developer
 🌐 Web Development
+        ↓
+☕ Java & JavaScript
+        ↓
 📱 Flutter Development
+        ↓
 ☁️ Salesforce Development
-☕ Java
-⚡ JavaScript
-🧩 Apex & LWC
-📍 Kolkata, India
+        ↓
+⚙️ APIs & Backend
+        ↓
+🚀 Real-World Applications
 ```
 
-I'm a developer who enjoys turning ideas into **functional, responsive and user-friendly applications**.
-
-Currently focused on strengthening software development skills, building real-world projects, and exploring modern technologies across **Web Development, Flutter and Salesforce**.
+🎓 **B.Sc. Zoology — Patliputra University, 2024**
+📍 **Kolkata, India**
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Technology Stack
+
+> Technology logos below are **visual only and are not clickable**.
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,php,dart,sql" />
-</p>
+<div align="left">
 
-### 🚀 Frameworks & Technologies
+<img src="https://skillicons.dev/icons?i=java" width="55" alt="Java">
+<img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript">
+<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML">
+<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS">
+<img src="https://skillicons.dev/icons?i=php" width="55" alt="PHP">
+<img src="https://skillicons.dev/icons?i=dart" width="55" alt="Dart">
+<img src="https://skillicons.dev/icons?i=sql" width="55" alt="SQL">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,flutter" />
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-</p>
+</div>
 
-### 🛠️ Tools
+### 📱 Frameworks & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea" />
-</p>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=flutter" width="55" alt="Flutter">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js">
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce">
+
+<img src="https://img.shields.io/badge/Apex-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Apex">
+
+<img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="LWC">
+
+</div>
+
+### 🛠️ Development Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" alt="Development Tools">
+
+</div>
 
 ---
 
@@ -62,186 +94,41 @@ Currently focused on strengthening software development skills, building real-wo
 
 <table>
 <tr>
-<td width="50%">
 
-### 🌐 Portfolio-Mine
+<td width="50%" valign="top">
 
-Personal developer portfolio showcasing skills, projects, experience and contact information.
+## 🌐 Portfolio-Mine
 
-**Tech:** HTML • CSS • JavaScript
+<img src="https://skillicons.dev/icons?i=html,css,js" width="130" alt="HTML CSS JavaScript">
 
-🔗 **[View Portfolio](https://vikramaditya2004.github.io/Portfolio-Mine/)**
+Personal developer portfolio showcasing projects, skills, education, experience and contact information.
 
-🔗 **[Source Code](https://github.com/Vikramaditya2004/Portfolio-Mine)**
+**Tech:** HTML · CSS · JavaScript
 
-</td>
-
-<td width="50%">
-
-### 🛒 Blinkit UI
-
-Modern grocery shopping UI built with Flutter, focusing on responsive layouts and clean mobile design.
-
-**Tech:** Flutter • Dart
-
-🔗 **[View Repository](https://github.com/Vikramaditya2004/blinkit_ui)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏥 Hospital Management System
-
-Java-based management application demonstrating OOP concepts, application structure and practical Java development.
-
-**Tech:** Java • OOP
-
-🔗 **[View Repository](https://github.com/Vikramaditya2004/HospitalManagementSystem)**
-
-</td>
-
-<td width="50%">
-
-### 🧮 JavaScript Projects
-
-A collection of JavaScript experiments, exercises and mini projects created while learning modern web development.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 **[View Repository](https://github.com/Vikramaditya2004/JavaSCript)**
-
-</td>
-</tr>
-</table>
-
----
-
-# 💼 Experience
-
-### 🏢 Startek — Flipkart FRM
-
-**August 2026 – Present**
-
-Working in a customer-focused operational environment while developing professional communication, problem-solving and process-handling skills.
-
----
-
-# 🎓 Education
-
-### 🎓 Patliputra University
-
-**B.Sc. — Zoology**
-
-**2024**
-
----
-
-# ☁️ Salesforce Journey
-
-Currently exploring Salesforce development with a focus on:
-
-```text
-Salesforce Development
-        │
-        ├── Apex
-        ├── Apex Classes
-        ├── Triggers
-        ├── SOQL
-        ├── LWC
-        ├── API Integration
-        └── Custom Record Sharing
-```
-
----
-
-# 📱 What I'm Building
-
-```text
-🌐 Web Applications
-        ↓
-📱 Flutter Applications
-        ↓
-☁️ Salesforce Solutions
-        ↓
-⚙️ Backend & API Integration
-        ↓
-🚀 Real-World Projects
-```
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vikramaditya2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramaditya2004&theme=tokyonight&hide_border=true" height="165">
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikramaditya2004&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🧩 Developer Mindset
-
-> **"Don't just learn technology. Build with it."**
-
-Every project is an opportunity to learn something new, improve existing skills and move one step closer to becoming a better developer.
-
----
-
-# 🎯 2026 Goals
-
-* [x] Build personal developer portfolio
-* [x] Build Java projects
-* [x] Explore Flutter development
-* [x] Learn Salesforce development
-* [ ] Build more production-ready applications
-* [ ] Improve backend development
-* [ ] Build more Salesforce projects
-* [ ] Contribute to open-source projects
-* [ ] Grow as a professional software developer
-
----
-
-# 🌐 Find Me Online
-
-<div align="center">
+<br>
 
 <a href="https://vikramaditya2004.github.io/Portfolio-Mine/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_Live_Portfolio-00C2FF?style=for-the-badge&labelColor=111827" alt="Live Portfolio">
 </a>
 
-<a href="https://www.linkedin.com/in/vikram-aditya-1a2509302/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://github.com/Vikramaditya2004/Portfolio-Mine">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&labelColor=111827" alt="Source Code">
 </a>
 
-<a href="https://github.com/Vikramaditya2004">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+</td>
 
-</div>
+<td width="50%" valign="top">
 
----
+## 🛒 Blinkit UI
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart" width="100" alt="Flutter Dart">
 
-### ⚡ Thanks for visiting!
+Modern grocery-shopping UI built with Flutter with a focus on responsive layouts and clean mobile design.
 
-**Explore the repositories • Check out the portfolio • Let's build something 🚀**
+**Tech:** Flutter · Dart
 
-<img src="https://komarev.com/ghpvc/?username=Vikramaditya2004&style=for-the-badge&color=0e75b6" alt="Profile views">
+<br>
 
-</div>
+<a href="https://github.com/Vikramaditya2004/blinkit_ui">
+<img src="https://img.shields.io/badge/📂_View_Project-14FFEC?style=for-the-badge&labelColor=111827" alt="View Blinkit UI">
+</a
